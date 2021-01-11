@@ -1,2 +1,2 @@
 # Python-API-Challenge
-This is my first Python API challenge, and sixth over all assignment. In this assignment, I performed the following tasks:
+This is my first Python API challenge, and sixth over all assignment. This is a two-part challenge i.e. 'WeatherPy' and 'VacationPy'. In the first part i.e. 'WeatherPy', I performed the following tasks:
