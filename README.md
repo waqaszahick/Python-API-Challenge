@@ -25,8 +25,8 @@ In the second part i.e. 'VacationPy', I performed the following tasks:
 - Used 'jupyter-gmaps' and the 'Google Places' API for this part of the assignment
 - Created a heat map that displays the humidity for every city from the Part-I (WeatherPy)
 - Narrowed down the 'DataFrame' to find ideal weather condition. For example:
-   * A maximum temperature lower than 80 degrees but higher than 70
-   * Wind speed less than 10 mph
+   * A maximum temperature lower than 80 degrees Farenheit but higher than 70 degrees Farenheit
+   * Wind speed less than 10 miles per hour (mph)
    * Zero (%) cloudiness
 - Used 'Google Places' API to find the first hotel for each city located within 5000 meters of my coordinates
 - Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country
