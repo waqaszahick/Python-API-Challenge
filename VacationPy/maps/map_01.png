@@ -16,7 +16,7 @@
   "version_major": 2,
   "version_minor": 0,
   "state": {
-    "ec733570340b408498088aab9552388b": {
+    "ed47673dfc3e4bbab7261f223be9d817": {
       "model_name": "LayoutModel",
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "1.2.0",
@@ -25,7 +25,7 @@
         "width": "100%"
       }
     },
-    "30309979d82e49cfb422f43826b17d58": {
+    "99e77a91f4e34e078a6dd476d9134154": {
       "model_name": "PlainmapModel",
       "model_module": "jupyter-gmaps",
       "model_module_version": "0.9.0",
@@ -53,44 +53,44 @@
           "zoom_level": 1
         },
         "layers": [
-          "IPY_MODEL_d37f013bc8604acf851b7cb4b672c40b"
+          "IPY_MODEL_700e9f321fdc4bb493ac93aef20b40aa"
         ],
-        "layout": "IPY_MODEL_ec733570340b408498088aab9552388b"
+        "layout": "IPY_MODEL_ed47673dfc3e4bbab7261f223be9d817"
       }
     },
-    "bbf9bd80c49d4424b8c20b434ef967a6": {
+    "68c92ed15d994ae2b4afd8189fc8f1c0": {
       "model_name": "LayoutModel",
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "1.2.0",
       "state": {}
     },
-    "326318a731eb461484e3a45d9e299dc4": {
+    "8cc1d839822543cfb17246ff98582508": {
       "model_name": "ToolbarModel",
       "model_module": "jupyter-gmaps",
       "model_module_version": "0.9.0",
       "state": {
         "_dom_classes": [],
         "layer_controls": [],
-        "layout": "IPY_MODEL_bbf9bd80c49d4424b8c20b434ef967a6"
+        "layout": "IPY_MODEL_68c92ed15d994ae2b4afd8189fc8f1c0"
       }
     },
-    "20e9e04c43434171a9f73940f4d02169": {
+    "2be4d9c250944e2b8cceae5097316dee": {
       "model_name": "LayoutModel",
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "1.2.0",
       "state": {}
     },
-    "1d789205738a4900beaebbec5c611444": {
+    "4aaf06e1066c4791849288fe941f5f49": {
       "model_name": "ErrorsBoxModel",
       "model_module": "jupyter-gmaps",
       "model_module_version": "0.9.0",
       "state": {
         "_dom_classes": [],
         "errors": [],
-        "layout": "IPY_MODEL_20e9e04c43434171a9f73940f4d02169"
+        "layout": "IPY_MODEL_2be4d9c250944e2b8cceae5097316dee"
       }
     },
-    "f64defa49a954ea8a957e3bb82b77334": {
+    "1da61b5386c44f8ea1d5569e6bf2718c": {
       "model_name": "LayoutModel",
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "1.2.0",
@@ -98,19 +98,19 @@
         "height": "420px"
       }
     },
-    "ebfb1c17682449639f22f5e1f1fbc697": {
+    "d450ff76f5cd44bd8265dff69a6a641f": {
       "model_name": "FigureModel",
       "model_module": "jupyter-gmaps",
       "model_module_version": "0.9.0",
       "state": {
         "_dom_classes": [],
-        "_errors_box": "IPY_MODEL_1d789205738a4900beaebbec5c611444",
-        "_map": "IPY_MODEL_30309979d82e49cfb422f43826b17d58",
-        "_toolbar": "IPY_MODEL_326318a731eb461484e3a45d9e299dc4",
-        "layout": "IPY_MODEL_f64defa49a954ea8a957e3bb82b77334"
+        "_errors_box": "IPY_MODEL_4aaf06e1066c4791849288fe941f5f49",
+        "_map": "IPY_MODEL_99e77a91f4e34e078a6dd476d9134154",
+        "_toolbar": "IPY_MODEL_8cc1d839822543cfb17246ff98582508",
+        "layout": "IPY_MODEL_1da61b5386c44f8ea1d5569e6bf2718c"
       }
     },
-    "d37f013bc8604acf851b7cb4b672c40b": {
+    "700e9f321fdc4bb493ac93aef20b40aa": {
       "model_name": "WeightedHeatmapLayerModel",
       "model_module": "jupyter-gmaps",
       "model_module_version": "0.9.0",
@@ -2631,190 +2631,12 @@
           85
         ]
       }
-    },
-    "f83e64a654cb4cf58f6f7c540f6b6639": {
-      "model_name": "MarkerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "hover_text": "Name \nRestaurante Carenagem\n City \ncaravelas\n Country \nBR",
-        "location": [
-          -17.7360284,
-          -39.26293800000001
-        ]
-      }
-    },
-    "83cf156b45f043cda238bcc0f6cb3095": {
-      "model_name": "MarkerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "hover_text": "Name \nSouthern Sun Waterfront Cape Town\n City \ncape town\n Country \nZA",
-        "location": [
-          -33.9157633,
-          18.4234956
-        ]
-      }
-    },
-    "d418f681fe1c49d59e7c8a86aa914e70": {
-      "model_name": "MarkerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "hover_text": "Name \nAl-Mandi Al-Dhahabi Restaurant\n City \nnizwa\n Country \nOM",
-        "location": [
-          22.9324724,
-          57.5339661
-        ]
-      }
-    },
-    "37347aa83d6a44eb9ec20e8922170d65": {
-      "model_name": "MarkerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "hover_text": "Name \nTravelodge Hotel Wellington\n City \nwellington\n Country \nNZ",
-        "location": [
-          -41.2858607,
-          174.7748312
-        ]
-      }
-    },
-    "6acf7be892fc46269fc995856ef4325b": {
-      "model_name": "MarkerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "hover_text": "Name \nPizza Hut\n City \nsur\n Country \nOM",
-        "location": [
-          22.5758524,
-          59.5024574
-        ]
-      }
-    },
-    "52f574291fda441683dfcca350c2efbb": {
-      "model_name": "MarkerLayerModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "data_bounds": [
-          [
-            -64.29482227717801,
-            -102.61321245765464
-          ],
-          [
-            45.32309123717801,
-            -177.64680036390172
-          ]
-        ],
-        "markers": [
-          "IPY_MODEL_f83e64a654cb4cf58f6f7c540f6b6639",
-          "IPY_MODEL_83cf156b45f043cda238bcc0f6cb3095",
-          "IPY_MODEL_d418f681fe1c49d59e7c8a86aa914e70",
-          "IPY_MODEL_37347aa83d6a44eb9ec20e8922170d65",
-          "IPY_MODEL_6acf7be892fc46269fc995856ef4325b"
-        ]
-      }
-    },
-    "7b5e7286d9b742a0a8ab8c798f105753": {
-      "model_name": "LayoutModel",
-      "model_module": "@jupyter-widgets/base",
-      "model_module_version": "1.2.0",
-      "state": {
-        "height": "100%",
-        "width": "100%"
-      }
-    },
-    "94e04f2cee294257a405ca7104f66289": {
-      "model_name": "PlainmapModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "_dom_classes": [],
-        "configuration": {
-          "api_key": "AIzaSyBAEiGLBkGaYDS1Z73v8WLv_w5rUrTi37E"
-        },
-        "data_bounds": [
-          [
-            -64.29482227717801,
-            -102.61321245765464
-          ],
-          [
-            45.32309123717801,
-            -177.64680036390172
-          ]
-        ],
-        "initial_viewport": {
-          "type": "ZOOM_CENTER",
-          "center": [
-            0.0,
-            0.0
-          ],
-          "zoom_level": 1
-        },
-        "layers": [
-          "IPY_MODEL_52f574291fda441683dfcca350c2efbb"
-        ],
-        "layout": "IPY_MODEL_7b5e7286d9b742a0a8ab8c798f105753"
-      }
-    },
-    "7b449c641b8444308ab8d9462a90b3eb": {
-      "model_name": "LayoutModel",
-      "model_module": "@jupyter-widgets/base",
-      "model_module_version": "1.2.0",
-      "state": {}
-    },
-    "d1458137721f4374892e85608091717c": {
-      "model_name": "ToolbarModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "_dom_classes": [],
-        "layer_controls": [],
-        "layout": "IPY_MODEL_7b449c641b8444308ab8d9462a90b3eb"
-      }
-    },
-    "cd878082d31140d7b191537eb2d63702": {
-      "model_name": "LayoutModel",
-      "model_module": "@jupyter-widgets/base",
-      "model_module_version": "1.2.0",
-      "state": {}
-    },
-    "050ae881c73b4914aaaa153b4bdcae02": {
-      "model_name": "ErrorsBoxModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "_dom_classes": [],
-        "errors": [],
-        "layout": "IPY_MODEL_cd878082d31140d7b191537eb2d63702"
-      }
-    },
-    "3342a6607bb34d0d8d98c0608227314b": {
-      "model_name": "LayoutModel",
-      "model_module": "@jupyter-widgets/base",
-      "model_module_version": "1.2.0",
-      "state": {
-        "height": "420px"
-      }
-    },
-    "01f2b0dc42974d6287ca3cdd00ff1042": {
-      "model_name": "FigureModel",
-      "model_module": "jupyter-gmaps",
-      "model_module_version": "0.9.0",
-      "state": {
-        "_dom_classes": [],
-        "_errors_box": "IPY_MODEL_050ae881c73b4914aaaa153b4bdcae02",
-        "_map": "IPY_MODEL_94e04f2cee294257a405ca7104f66289",
-        "_toolbar": "IPY_MODEL_d1458137721f4374892e85608091717c",
-        "layout": "IPY_MODEL_3342a6607bb34d0d8d98c0608227314b"
-      }
     }
   }
 }
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
-{"version_major": 2, "version_minor": 0, "model_id": "01f2b0dc42974d6287ca3cdd00ff1042"}
+{"version_major": 2, "version_minor": 0, "model_id": "d450ff76f5cd44bd8265dff69a6a641f"}
 </script>
 
 </body>
